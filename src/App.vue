@@ -28,6 +28,10 @@ export default {
                 },
               ],
             },
+            {
+              label: "二级 2-1",
+              children: [],
+            },
           ],
         },
         {
